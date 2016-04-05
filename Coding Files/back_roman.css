@@ -1,0 +1,15 @@
+body {
+	background-image:
+url("../Images/roman_colosseum.jpeg");
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+	background-position:center
+	!important;
+	backgrond-repeat: no-repeat;
+	!important;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}

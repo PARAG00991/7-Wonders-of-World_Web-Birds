@@ -1,0 +1,14 @@
+body {
+	background-image:
+url("../Images/taj_mahal.jpeg");
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+	background-position:center
+	!important;
+	backgrond-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}
